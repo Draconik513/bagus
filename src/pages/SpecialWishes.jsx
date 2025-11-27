@@ -6,17 +6,18 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-Sayangku, hari ini adalah momen yang paling indah karena hari ini kamu lahir ke dunia. Aku ingin berdoa agar kamu selalu dalam lindungan Tuhan 🤲, diberi kesehatan, kekuatan, dan kebahagiaan yang tiada akhir 💫.
+Selamat ulang tahun, Mas Dimas! 🥳✨  
 
-Aku tahu hidup tidak selalu mudah, tapi aku ingin kamu tahu bahwa kamu tidak sendiri. Aku akan selalu mendukungmu, menyemangati kamu 🌻, dan menjadi pundakmu saat kamu lelah 🤍.
+Semoga umur baru ini bawa banyak kebahagiaan, rezeki, kesehatan, dan semua hal baik nempel terus kayak kenangan kita yang susah dilupain. Eakkk😌   
 
-Semoga setiap langkahmu penuh keberkahan, dan setiap impianmu satu per satu menjadi kenyataan ✨. Kamu punya hati yang tulus dan senyum yang menenangkan 😊. Dunia butuh lebih banyak orang sepertimu.
+Makasih ya udah jadi sosok yang selalu sabar buat Leni, yang katanya seluas samudera Jalasveva Jayamahe (Semoga itu benar), minus sedikit ngeselin. Btw, Leni sayanggg banget sama Mas Dimas. Tapi Leni bingung ngungkapinnya kek maneee (emot sedih) percayalah rasa sayangnya Leni tidak bisa diungkapkan pake kata2 *Asyekkk   
 
-Aku ingin kamu tahu bahwa aku percaya padamu sepenuhnya 💖. Kamu kuat, kamu hebat, dan kamu pantas mendapatkan yang terbaik 🌹. Jangan pernah ragukan dirimu sendiri, karena kamu adalah cahaya dalam hidup banyak orang, termasuk hidupku 💞.
+Tapi dari semua itu, Leni bersyukur banget punya laki-laki sebaik dan setulus dirimuuu. Semoga dirimu bukan termasuk golongan cowok yang cinta dan sayangnya 100-0, semoga dirimu bukan golongan halo dek - halo dek murahan kek di tiktok wkwk.   
 
-Jika suatu hari kamu merasa ragu atau takut, ingatlah doaku ini: semoga kamu selalu dikelilingi orang-orang baik, rezeki yang cukup, dan cinta yang tulus dari semua arah 💕, Termasuk dariku.
+Nikmati hari-harimu di 24 tahun ini, semoga tahun ini mimpi kita pelan-pelan makin dekat jadi kenyataan. Titip doa semogaaa bisa dapet kerjaan yang sesuai harapan  
 
-Aku cinta kamu, dan akan selalu mencintaimu 💌. Selamat ulang tahun ke 16 sayang 💖
+Happy birthday! 🎂❤ 
+Love u, more, more and more ✨
 
   `;
 
