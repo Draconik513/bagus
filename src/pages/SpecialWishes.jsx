@@ -6,13 +6,13 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-Sayangggg, today is your birthday dayy🎉, so happy birthday day sayangg🥳, hari ini adalah hari lahir kamu🤩, dan hari ini adalah hari kamu bertambah usia✨, semoga dengan nya kamu bertambah usia, kamu menjadi anak yang Sholehah 🧕, yang berbakti kepada orang tua🙂‍↕️, jadi kakak yang hebat buat Refan🫡, jadi adik yang penyayang buat Abang😚, di lancarin rezeki nya🌻, di sehatkan kan jiwa dan raga nya🌼, di lancarkan seluruh urusan nya📋,di kasih perlindungan sama Allah dari Bahaya dunia serta Bahaya akhirat 🛡️, selalu bahagia 🥰, dan terus jadi diri kamu sendiri ya🍯🐝
+Happy birthday, sayang. Semoga hari ini bawa banyak hal baik buat kamu. Makasih udah jadi rumah paling tenang buat aku. Semoga apa pun yang kamu kejar pelan-pelan nyampe ya. I’m proud of you
 
-Terus berkembang menjadi lebih baik ya sayangkuuu💗, fokus sama impian kamu🌌, setiap impian kamu semoga menjadi kenyataan satu per satu 🌠, setiap langkah kamu di permudah sama allah 🕌, bukan hanya umur yang berkembang, tapi pemikiran dan prilaku kamu juga haru terus berkembang ya💬, menjadi wanita yang rendah hati 💟, kurangin kebiasaan jelek nya ❎, jangan terlalu fokus sama kelebihan orang lain terkadang Kupu-kupu tidak bisa melihat keindahan sayapnya sendiri, tetapi orang lain bisa🦋. Orang lain itu aku🫶, aku percaya sama kamu, kamu punya potensial sayangg, jadi jangan ngeremehin diri kamu sendiri ya, kalau kamu sendiri aja ga percaya sama diri kamu sendiri gimana kamu bisa berhasil?so mulai hari ini selalu percaya sama diri kamu sendiri ya💜, I’ll be here to support you 😊. Setiap kamu ngalamin  kegagalan jangan lupa terus bangkit dan belajar dari kesalahan 💫
+Kamu tahu nggak… dari semua hal yang pernah datang dan pergi dalam hidup aku, kamu itu yang paling menetap di hati. Bukan cuma jadi seseorang yang aku sayang, tapi jadi tempat terakhir yang aku mau pulang. Kamu last love aku..bukan karena dunia berhenti berputar, tapi karena hati aku berhenti mencari sejak ketemu kamu.
 
-Makasih juga karna udah bertahan sama aku🤧, jadi pengingat aku 🔊, selalu sabar menghadapi aku☺️, setelah aku mengenal kamu aku jadi banyak belajar tentang memahami, memperlakukan dan lain lain, aku ga janji tapi aku akan ngelakuin yang terbaik buat kamu 🙇,  jaga hubungan ini  yaa, kita lakuin yang terbaik buat kebaikan kita sendiri ya 💞
+Sama kamu, semuanya kerasa lebih tenang. Nggak perlu pura-pura kuat, nggak perlu jadi versi lain dari diri aku. Kamu hadir, dan tiba-tiba hidup rasanya punya arah yang lebih lembut. Aku nggak minta banyak… cukup kamu tetap ada, tetap jadi kamu yang bikin aku yakin kalau cinta terakhir itu bukan sekadar janji, tapi pilihan yang aku pegang setiap hari.
 
-I love you more, and I will always love you from here 💜🩵🖤🤍
+Kalau suatu hari kamu nanya kenapa aku setia sama kamu, jawabannya simpel: karena di antara semua yang pernah aku rasa, kamu yang paling masuk akal untuk aku jaga. Kamu last love aku..dan aku nggak mau ada siapa pun lain setelah ini
 
   `;
 
@@ -83,7 +83,7 @@ I love you more, and I will always love you from here 💜🩵🖤🤍
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Reihani Nayla Mumtazah (iskandar) 💖
+                  Can 💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                   Hanya kamu di hatiku, sayang 🥹

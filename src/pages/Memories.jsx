@@ -38,7 +38,8 @@ const Memories = ({ isIOS }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 0.6 }}
             >
-              💌 Maaf yaa sayang...
+              Sayang, I'm so sorry ya kalau tingkahku akhir-akhir ini sering
+              ngeselin dan bikin kamu bad mood.
             </motion.p>
 
             <motion.p
@@ -46,10 +47,8 @@ const Memories = ({ isIOS }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.2 }}
             >
-              Maaf 3 hari terakhir ini aku ngediemin kamu, aku cuman pengen
-              nenangin diri aku aja supaya emosi aku stabil lagi kaya sekarang,
-              untuk ke depan nya aku usahain ga bakal begitu lagi ya sekalipun
-              aku pengen sendiri, aku bakal tetep ngabarin kamu kok nanti.
+              Aku sadar banget, sifat manja atau rewelku itu kadang suka
+              keterlaluan dan pasti nyusahin kamu banget.
             </motion.p>
 
             <motion.p
@@ -57,12 +56,8 @@ const Memories = ({ isIOS }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.8 }}
             >
-              Maaf kalau usaha aku masih kurang di mata kamu, aku selalu
-              ngelakuin yang terbaik buat kamu kok, maaf kalau aku suka kurang
-              ngertiin kamu, kurang memperlakukan kamu sesuai sama kemauan kamu,
-              maaf kalau aku suka nge buat kamu nangis, dan maaf untuk semua
-              permasalahan yang pernah kita hadapi, tetapi dari semua itu aku
-              usahain akan terus belajar menjadi lebih baik buat kamu 💕
+              Aku janji akan lebih aware dan berusaha banget buat nggak gampang
+              ngambek atau ngerepotin.
             </motion.p>
 
             <motion.p
@@ -70,7 +65,7 @@ const Memories = ({ isIOS }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 2.4 }}
             >
-              Maaf dan makasih buat semuanya sayang 💜🖤
+              Makasih banyak ya udah sabar banget sama aku Bbyy
             </motion.p>
           </div>
         </motion.div>
